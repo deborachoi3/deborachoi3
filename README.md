@@ -9,7 +9,7 @@
 
 - 🤓 All of my projects are available on my [portfolio](https://debora-choi.netlify.app/)
 
-- 💌 How to reach me **deborachoi3@gmail.com**
+- 💌 How to reach me: **deborachoi3@gmail.com**
 
 - 📄 Know about my experiences: [resume](https://shorturl.at/yFO29)
 
