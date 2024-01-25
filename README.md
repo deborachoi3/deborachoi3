@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deborachoi3&label=Profile%20views&color=ffa3dd&style=flat" alt="deborachoi3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deborachoi3" alt="deborachoi3" /></a> </p>
-
 - 👩🏻‍💻 I’m currently working on [Maomorize](https://devpost.com/software/maomorize?ref_content=user-portfolio&ref_feature=in_progress)
 
 - 🌱 I’m currently learning **mobile app development**
@@ -15,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oPkBw7XW8YM_2QrtKP7yAr-g9Q9Jk-dB/view?usp=sharing](https://drive.google.com/file/d/1oPkBw7XW8YM_2QrtKP7yAr-g9Q9Jk-dB/view?usp=sharing)
 
-- 🌸 Fun fact **I like to gym, read, write, and do arts n crafts in my free time :}**
+- 🎀 Fun fact **I like to gym, read, write, and do arts n crafts in my free time :}**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deborachoi3&show_icons=true&locale=en&layout=compact" alt="deborachoi3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deborachoi3&show_icons=true&locale=en" alt="deborachoi3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deborachoi3&" alt="deborachoi3" /></p>
