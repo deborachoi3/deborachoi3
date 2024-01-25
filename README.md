@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **mobile app development**
 
-- 🤓 All of my projects are available [https://debora-choi.netlify.app/](https://debora-choi.netlify.app/)
+- 🤓 All of my projects are available on my [portfolio] (https://debora-choi.netlify.app/)
 
 - 💌 How to reach me **deborachoi3@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/yFO29)
+- 📄 Know about my experiences: [my resume] (https://shorturl.at/yFO29)
 
 - 🎀 Fun fact **I like to gym, read, write, and do arts n crafts in my free time :}**
 
