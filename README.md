@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deborachoi3&label=Profile%20views&color=ffa3dd&style=flat" alt="deborachoi3" /> </p>
 
-- 👩🏻‍💻 I’m currently working on [Maomorize](https://devpost.com/software/maomorize?ref_content=user-portfolio&ref_feature=in_progress)
+- 👩🏻‍💻 I’m currently working on [MangaReact](https://github.com/NiWong03/MangadexReact)
 
-- 🌱 I’m currently learning **mobile app development**
+- 🌱 I’m currently learning **fullstack development**
 
 - 🤓 All of my projects are available on my [portfolio](https://debora-choi.netlify.app/)
 
