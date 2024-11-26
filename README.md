@@ -11,7 +11,7 @@
 
 - 💌 How to reach me: **deborachoi3@gmail.com**
 
-- 📄 Know about my experiences: [resume](https://shorturl.at/yFO29)
+- 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1kaQTPfeNDxpmmSNQuCXQ_q2z8Vx-DpgM/view?usp=sharing)
 
 - 🎀 Fun fact **I like to gym, read, write, and do arts n crafts in my free time :}**
 
