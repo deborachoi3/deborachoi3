@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Debora! 🌷</h1>
-<h3 align="center">A passionate fullstack developer from San Francisco</h3>
+<h3 align="center">A passionate Fullstack Developer and AI Researcher from San Francisco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deborachoi3&label=Profile%20views&color=ffa3dd&style=flat" alt="deborachoi3" /> </p>
 
