@@ -3,17 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deborachoi3&label=Profile%20views&color=ffa3dd&style=flat" alt="deborachoi3" /> </p>
 
-- 👩🏻‍💻 I’m currently working on [MangaReact](https://github.com/NiWong03/MangadexReact)
-
-- 🌱 I’m currently learning **fullstack development**
-
 - 🤓 All of my projects are available on my [portfolio](https://debora-choi.netlify.app/)
 
 - 💌 How to reach me: **deborachoi3@gmail.com**
-
-- 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1TMbwdKW0vWSmm9W87rFVSnRXI1Vs6UF-/view?usp=sharing)
-
-- 🎀 Fun fact **I like to gym, read, write, and do arts n crafts in my free time :}**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
