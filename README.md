@@ -3,16 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deborachoi3&label=Profile%20views&color=ffa3dd&style=flat" alt="deborachoi3" /> </p>
 
-- 🤓 All of my projects are available on my [portfolio](https://debora-choi.netlify.app/)
-
-- 💌 How to reach me: **deborachoi3@gmail.com**
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/debora-choi-759b221a9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Debora Choi LinkedIn" height="30" width="40" />
+<p align="center">
+  <a href="mailto:deborachoi3@gmail.com">
+    <img src="https://img.shields.io/badge/email-deborachoi3@gmail.com-23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/debora-choi3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-debora--choi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://debora-choi.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
+
+## Tech Stack:
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 <table align="center">
   <tr>
